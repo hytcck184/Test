@@ -1,3 +1,4 @@
 # Test
 To demonstrate how github works
-Adding a new line commit1
+- Sample Sentence - commit1
+- Sample Sentence 2 - commit2
